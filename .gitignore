@@ -1,0 +1,12 @@
+demos
+node_modules
+.env
+scripts
+
+
+# START Ruler Generated Files
+/.codex/config.toml
+/.codex/config.toml.bak
+/AGENTS.md
+/AGENTS.md.bak
+# END Ruler Generated Files
