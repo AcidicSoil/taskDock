@@ -2,7 +2,7 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import "./index.css";
-import App from "./App.jsx";
+import App from "./App.tsx";
 
 // Dev-only: load React Grab
 if (import.meta.env.DEV) {

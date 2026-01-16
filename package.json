@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "codefetch": "^2.2.0"
+  },
+  "scripts": {
+    "code": "pnpm code:src",
+    "code:src": "codefetch -t 5 --include-dir demos -o frontend_drafted_mockups.md"
+  }
+}
